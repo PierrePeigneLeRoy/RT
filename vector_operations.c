@@ -6,9 +6,11 @@
 /*   By: ppeigne <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/07 11:28:17 by ppeigne           #+#    #+#             */
-/*   Updated: 2018/05/07 14:48:59 by ppeigne          ###   ########.fr       */
+/*   Updated: 2018/05/08 14:04:09 by ppeigne          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "rtv1.h"
 
 double	euclidean_norm(double vec[3])
 {
